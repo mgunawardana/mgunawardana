@@ -61,3 +61,55 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Research & Case Studies
+
+This section contains my cybersecurity research, attack analysis, digital forensic investigations, and case studies.
+
+- Malware Analysis
+- Threat Intelligence Reports
+- DFIR Case Studies
+- Security Research
+- IEEE Research Papers
+
+## Technical Writing
+
+I regularly publish technical articles covering:
+
+- SOC investigations
+- Detection engineering
+- Digital forensics
+- Malware analysis
+- Lab walkthroughs
+
+➡️ Visit my Blog
+
+## connect with me
+LinkedIn
+
+Website
+
+Blog
+
+Medium
+
+TryHackMe
+
+Hack The Box
+
+CyberDefenders
+
+IEEE Author Page (future)
+
+Google Scholar (future)
+## experience
+Operational Specialist
+Global System Solution
+
+Private Visiting ICT Tutor
+## education
+Higher Diploma
+Network Technology & Cybersecurity
+
+Bachelor's (Upcoming)
+Digital Forensics & Cybersecurity
