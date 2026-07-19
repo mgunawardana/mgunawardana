@@ -1,16 +1,17 @@
 # Hello, I'm Mihindi Gunawardana
 <a href="https://www.linkedin.com/in/mihindi-gunawardana-110866370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring cybersecurity professional currently pursuing a Higher Diploma in Network Technology and Cybersecurity, with plans to continue my academic journey by earning a Bachelor's degree specializing in Digital Forensics and Cybersecurity. Alongside my studies, I work as an Operational Specialist in the Data Operations Department at Global System Solution, Colombo, while also working as a private visiting ICT tutor.
+I am an aspiring cybersecurity professional currently pursuing a Higher Diploma in Network Technology and Cybersecurity, with plans to further specialize through a Bachelor's degree in Digital Forensics and Cybersecurity. Alongside my studies, I work as an Operational Specialist in the Data Operations Department at Global System Solution, Colombo, while also working as a private visiting ICT tutor.
 
-My primary interests lie in Blue Team operations, Security Operations (SOC), and Digital Forensics. I enjoy investigating security incidents, analyzing attacker techniques, and understanding how cyber threats work to develop stronger defensive capabilities.
+My interests center around Blue Team operations, Security Operations (SOC), Digital Forensics, cybersecurity research, and understanding attacker techniques to strengthen defensive security through investigation and continuous learning.
 
-This GitHub serves as my cybersecurity portfolio, documenting hands on labs, projects, and technical write ups with supporting evidence. Each project includes links to my blog and personal website, where I share detailed documentation, methodologies, and guided walkthroughs. My goal is not only to showcase my practical work but also to make my learning process easier to follow, helping beginners gain an understanding of the concepts and encouraging them to build similar projects as they develop their own skills.
+This GitHub serves as the central hub for my cybersecurity journey, showcasing hands on labs, projects, technical research, and case studies with supporting evidence. It also connects to my blog, personal website, and other professional platforms, where I share detailed documentation, guided walkthroughs, and additional resources. My goal is not only to document my own progress but also to make my work easier to understand, helping fellow learners and beginners explore cybersecurity through practical examples.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My objective is to build the technical knowledge and practical experience required to begin my career as a Junior SOC Analyst, with the long term goal of specializing in Digital Forensics and Incident Response (DFIR). Through continuous learning, hands on projects, technical research, and real world case studies, I aim to strengthen my investigative, analytical, and defensive cybersecurity skills.
+
+Beyond technical work, I aspire to contribute to the cybersecurity community by sharing knowledge through technical writing, guided documentation, cybersecurity awareness initiatives, and eventually as a visiting lecturer. My goal is to make cybersecurity concepts more accessible, encourage continuous learning, and help individuals and organizations strengthen their security posture.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
