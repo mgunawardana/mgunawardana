@@ -1,9 +1,11 @@
 # Hello, I'm Mihindi Gunawardana
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mihindi-gunawardana-110866370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am an aspiring cybersecurity professional currently pursuing a Higher Diploma in Network Technology and Cybersecurity, with plans to continue my academic journey by earning a Bachelor's degree specializing in Digital Forensics and Cybersecurity. Alongside my studies, I work as an Operational Specialist in the Data Operations Department at Global System Solution, Colombo, while also working as a private visiting ICT tutor.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My primary interests lie in Blue Team operations, Security Operations (SOC), and Digital Forensics. I enjoy investigating security incidents, analyzing attacker techniques, and understanding how cyber threats work to develop stronger defensive capabilities.
+
+This GitHub serves as my cybersecurity portfolio, documenting hands on labs, projects, and technical write ups with supporting evidence. Each project includes links to my blog and personal website, where I share detailed documentation, methodologies, and guided walkthroughs. My goal is not only to showcase my practical work but also to make my learning process easier to follow, helping beginners gain an understanding of the concepts and encouraging them to build similar projects as they develop their own skills.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
