@@ -1,4 +1,4 @@
-# Hello, I'm Mihindi Gunawardana
+# Hello, I'm Mihindi Gunawardana!
 <a href="https://www.linkedin.com/in/mihindi-gunawardana-110866370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an aspiring cybersecurity professional currently pursuing a Higher Diploma in Network Technology and Cybersecurity, with plans to further specialize through a Bachelor's degree in Digital Forensics and Cybersecurity. Alongside my studies, I work as an Operational Specialist in the Data Operations Department at Global System Solution, Colombo, while also working as a private visiting ICT tutor.
