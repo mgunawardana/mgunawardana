@@ -1,6 +1,10 @@
 # Hello, I'm Mihindi Gunawardana!
-<a href="https://www.linkedin.com/in/mihindi-gunawardana-110866370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<div>
+  <a href="https://www.linkedin.com/in/mihindi-gunawardana-110866370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-4A154B?style=for-the-badge&logo=globe&logoColor=white" /></a>
+  <a href="mailto:mihindigunawardana.cyber@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mgunawardanaa?igsh=MWp5dWdwa3l6MTRqcw=="><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
 I am an aspiring cybersecurity professional currently pursuing a Higher Diploma in Network Technology and Cybersecurity, with plans to further specialize through a Bachelor's degree in Digital Forensics and Cybersecurity. Alongside my studies, I work as an Operational Specialist in the Data Operations Department at Global System Solution, Colombo, while also working as a private visiting ICT tutor.
 
 My interests center around Blue Team operations, Security Operations (SOC), Digital Forensics, cybersecurity research, and understanding attacker techniques to strengthen defensive security through investigation and continuous learning.
@@ -14,7 +18,6 @@ My objective is to build the technical knowledge and practical experience requir
 Beyond technical work, I aspire to contribute to the cybersecurity community by sharing knowledge through technical writing, guided documentation, cybersecurity awareness initiatives, and eventually as a visiting lecturer. My goal is to make cybersecurity concepts more accessible, encourage continuous learning, and help individuals and organizations strengthen their security posture.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -28,88 +31,79 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Digital Forensics & File Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExifTool-3178C6?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HxD_Hex_Editor-00599C?style=for-the-badge&logoColor=white" />
 </div>
 
-### Endpoint
+### Data & Header Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-FF69B4?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="YOUR_COURSERA_OR_CREDLY_VERIFICATION_URL">
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Additional Project Repositories
 
-## Research & Case Studies
+*all the other labs and projects i have done that havent mentioned in the resume*
 
-This section contains my cybersecurity research, attack analysis, digital forensic investigations, and case studies.
+* 📁 **[Detection & Attack Analysis Master Repo](./)** — Houses all detection engineering, SIEM, and packet analysis labs.
+* 📁 **[SOC Automation & IR Master Repo](./)** — Houses all SOAR, case management, and incident response playbooks.
 
-- Malware Analysis
-- Threat Intelligence Reports
-- DFIR Case Studies
-- Security Research
-- IEEE Research Papers
+---
 
-## Technical Writing
+## 📚 In-Depth Guides & Step-by-Step Tutorials
 
-I regularly publish technical articles covering:
+*Detailed, beginner-friendly walkthroughs and pedagogical guides designed to explain complex SOC workflows.*
 
-- SOC investigations
-- Detection engineering
-- Digital forensics
-- Malware analysis
-- Lab walkthroughs
+* 📖 **[Medium / Personal Blog](https://medium.com/@yourhandle)** — In-depth technical guides, tool usage, and step-by-step lab walkthroughs.
+* 📝 **[Study Notes & Resources Repository](./)** — Key reference notes and cheatsheets created during my continuous learning journey.
 
-➡️ Visit my Blog
+---
 
-## connect with me
-LinkedIn
+## 📑 Research & Cyber Case Studies
 
-Website
+*Real-world incident investigations, technical threat research, and formal academic papers.*
 
-Blog
+> 💡 **Featured / Recognized Research**
+> * 🏆 **[Title of Featured Research Paper / Incident Analysis](./)** — *Brief note if recognized by an organization, government body, or submitted for IEEE/ACM consideration.*
 
-Medium
+* 🔍 **[Threat Analysis & DFIR Case Studies Master Repo](./)** — Full collection of malware analyses, incident breakdowns, and threat intelligence reports.
 
-TryHackMe
+---
 
-Hack The Box
+## 📢 Cybersecurity Awareness & Community Initiatives
 
-CyberDefenders
+*Free community resources, slides, and educational posts aimed at breaking down cyber threats for a broader audience.*
 
-IEEE Author Page (future)
+* 🎨 **[Instagram Tech Page](https://www.instagram.com/mgunawardanaa)** — Visual infographics, attack breakdowns, and career milestones.
+* 📊 **[Slide Decks & Awareness Resources (Google Drive / Repository)](./)** — Free presentation slides on common attack vectors (Phishing, Ransomware, Social Engineering).
 
-Google Scholar (future)
-## experience
-Operational Specialist
-Global System Solution
+---
 
-Private Visiting ICT Tutor
-## education
-Higher Diploma
-Network Technology & Cybersecurity
+## 💼 Experience & Education
 
-Bachelor's (Upcoming)
-Digital Forensics & Cybersecurity
+* **Operational Specialist** | Global System Solution  
+* **Private Visiting ICT Tutor**  
+👉 *For detailed responsibilities, key achievements, and transferable skills for each role, see my **[Work Experience Breakdown Repository](./)**.*
+
+**Education**
+* **Higher Diploma in Network Technology & Cybersecurity**
+* **BSc in Digital Forensics & Cybersecurity** *(Upcoming)*
+
+---
+
+## Connect & Follow
+
+* **Email:** [mihindigunawardana.cyber@gmail.com](mailto:mihindigunawardana.cyber@gmail.com)
+* **LinkedIn:** [Mihindi Gunawardana](https://www.linkedin.com/in/mihindi-gunawardana-110866370/)
+* **Blog:** [Medium](https://medium.com/@yourhandle)
+* **Instagram:** [@mgunawardanaa](https://www.instagram.com/mgunawardanaa)
+* **Hands-on Platforms:** [TryHackMe](#) | [Hack The Box](#) | [CyberDefenders](#)
