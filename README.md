@@ -1,9 +1,11 @@
 # Hello, I'm Mihindi Gunawardana!
 <div>
   <a href="https://www.linkedin.com/in/mihindi-gunawardana-110866370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-4A154B?style=for-the-badge&logo=globe&logoColor=white" /></a>
   <a href="mailto:mihindigunawardana.cyber@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/mgunawardanaa?igsh=MWp5dWdwa3l6MTRqcw=="><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <!-- 
+ <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-4A154B?style=for-the-badge&logo=globe&logoColor=white" /></a>
+-->
 </div>
 I am an aspiring cybersecurity professional currently pursuing a Higher Diploma in Network Technology and Cybersecurity, with plans to further specialize through a Bachelor's degree in Digital Forensics and Cybersecurity. Alongside my studies, I work as an Operational Specialist in the Data Operations Department at Global System Solution, Colombo, while also working as a private visiting ICT tutor.
 
@@ -21,15 +23,10 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Email Security Labs       | <a href="https://github.com/mgunawardana/Email-Security-Labs.git">Check it out!</a>|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Digital Forensics & File Analysis
 <div>
@@ -50,60 +47,57 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 </a>
 </div>
 
+<!-- 
 ## Additional Project Repositories
+
+This is a multiline comment. 
+It will not show up in the rendered GitHub README view. 
 
 *all the other labs and projects i have done that havent mentioned in the resume*
 
-* 📁 **[Detection & Attack Analysis Master Repo](./)** — Houses all detection engineering, SIEM, and packet analysis labs.
-* 📁 **[SOC Automation & IR Master Repo](./)** — Houses all SOAR, case management, and incident response playbooks.
+* **[Detection & Attack Analysis Master Repo](./)** — Houses all detection engineering, SIEM, and packet analysis labs.
 
----
 
-## 📚 In-Depth Guides & Step-by-Step Tutorials
+## In-Depth Guides & Step-by-Step Tutorials
 
 *Detailed, beginner-friendly walkthroughs and pedagogical guides designed to explain complex SOC workflows.*
 
-* 📖 **[Medium / Personal Blog](https://medium.com/@yourhandle)** — In-depth technical guides, tool usage, and step-by-step lab walkthroughs.
-* 📝 **[Study Notes & Resources Repository](./)** — Key reference notes and cheatsheets created during my continuous learning journey.
+* **[Medium / Personal Blog](https://medium.com/@yourhandle)** — In-depth technical guides, tool usage, and step-by-step lab walkthroughs.
+* **[Study Notes & Resources Repository](./)** — Key reference notes and cheatsheets created during my continuous learning journey.
 
----
-
-## 📑 Research & Cyber Case Studies
+## Research & Cyber Case Studies
 
 *Real-world incident investigations, technical threat research, and formal academic papers.*
 
-> 💡 **Featured / Recognized Research**
-> * 🏆 **[Title of Featured Research Paper / Incident Analysis](./)** — *Brief note if recognized by an organization, government body, or submitted for IEEE/ACM consideration.*
+> **Featured / Recognized Research**
+> * **[Title of Featured Research Paper / Incident Analysis](./)** — *Brief note if recognized by an organization, government body, or submitted for IEEE/ACM consideration.*
 
-* 🔍 **[Threat Analysis & DFIR Case Studies Master Repo](./)** — Full collection of malware analyses, incident breakdowns, and threat intelligence reports.
+* **[Threat Analysis & DFIR Case Studies Master Repo](./)** — Full collection of malware analyses, incident breakdowns, and threat intelligence reports.
 
----
-
-## 📢 Cybersecurity Awareness & Community Initiatives
+## Cybersecurity Awareness & Community Initiatives
 
 *Free community resources, slides, and educational posts aimed at breaking down cyber threats for a broader audience.*
 
-* 🎨 **[Instagram Tech Page](https://www.instagram.com/mgunawardanaa)** — Visual infographics, attack breakdowns, and career milestones.
-* 📊 **[Slide Decks & Awareness Resources (Google Drive / Repository)](./)** — Free presentation slides on common attack vectors (Phishing, Ransomware, Social Engineering).
+* **[Instagram Tech Page](https://www.instagram.com/mgunawardanaa)** — Visual infographics, attack breakdowns, and career milestones.
+* **[Slide Decks & Awareness Resources (Google Drive / Repository)](./)** — Free presentation slides on common attack vectors (Phishing, Ransomware, Social Engineering).
+-->
+## Experience & Education
 
----
-
-## 💼 Experience & Education
-
-* **Operational Specialist** | Global System Solution  
+* **Quality Assurance Technician** | Global System Solution *(2025 - 2026)*
+* **Operational Specialist** | Global System Solution *(currently working)*  
 * **Private Visiting ICT Tutor**  
-👉 *For detailed responsibilities, key achievements, and transferable skills for each role, see my **[Work Experience Breakdown Repository](./)**.*
+  *For detailed responsibilities, key achievements, and transferable skills for each role, see my **[Work Experience Breakdown Repository](./)**.*
 
 **Education**
 * **Higher Diploma in Network Technology & Cybersecurity**
 * **BSc in Digital Forensics & Cybersecurity** *(Upcoming)*
 
----
-
 ## Connect & Follow
 
 * **Email:** [mihindigunawardana.cyber@gmail.com](mailto:mihindigunawardana.cyber@gmail.com)
 * **LinkedIn:** [Mihindi Gunawardana](https://www.linkedin.com/in/mihindi-gunawardana-110866370/)
-* **Blog:** [Medium](https://medium.com/@yourhandle)
 * **Instagram:** [@mgunawardanaa](https://www.instagram.com/mgunawardanaa)
+<!-- 
+* **Blog:** [Medium](https://medium.com/@yourhandle) 
 * **Hands-on Platforms:** [TryHackMe](#) | [Hack The Box](#) | [CyberDefenders](#)
+-->
