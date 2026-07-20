@@ -42,7 +42,7 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 
 ## Certifications
 <div>
-<a href="YOUR_COURSERA_OR_CREDLY_VERIFICATION_URL">
+<a href="https://coursera.org/share/31efdfca8505632447bee9fac2bf4c0d">
   <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 </div>
