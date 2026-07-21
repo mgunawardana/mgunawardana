@@ -50,9 +50,6 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 <!-- 
 ## Additional Project Repositories
 
-This is a multiline comment. 
-It will not show up in the rendered GitHub README view. 
-
 *all the other labs and projects i have done that havent mentioned in the resume*
 
 * **[Detection & Attack Analysis Master Repo](./)** — Houses all detection engineering, SIEM, and packet analysis labs.
@@ -89,7 +86,7 @@ It will not show up in the rendered GitHub README view.
   *For detailed responsibilities, key achievements, and transferable skills for each role, see my **[Work Experience Breakdown Repository](./)**.*
 
 **Education**
-* **Higher Diploma in Network Technology & Cybersecurity**
+* **Higher Diploma in Network Engineering & Cybersecurity**
 * **BSc in Digital Forensics & Cybersecurity** *(Upcoming)*
 
 ## Connect & Follow
@@ -99,5 +96,5 @@ It will not show up in the rendered GitHub README view.
 * **Instagram:** [@mgunawardanaa](https://www.instagram.com/mgunawardanaa)
 <!-- 
 * **Blog:** [Medium](https://medium.com/@yourhandle) 
-* **Hands-on Platforms:** [TryHackMe](#) | [Hack The Box](#) | [CyberDefenders](#)
+* **Website:** [Website](https://medium.com/@yourhandle)
 -->
