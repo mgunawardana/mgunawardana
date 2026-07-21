@@ -83,7 +83,7 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 * **Quality Assurance Technician** | Global System Solution *(2025 - 2026)*
 * **Operational Specialist** | Global System Solution *(currently working)*  
 * **Private Visiting ICT Tutor**  
-  *For detailed responsibilities, key achievements, and transferable skills for each role, see my **[Work Experience Breakdown Repository](./)**.*
+  *For detailed responsibilities, key achievements, and transferable skills for each role, see my **[Work Experience Breakdown Repository](https://github.com/mgunawardana/Work-Experience-Breakdown.git)**.*
 
 **Education**
 * **Higher Diploma in Network Engineering & Cybersecurity**
