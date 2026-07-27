@@ -3,9 +3,8 @@
   <a href="https://www.linkedin.com/in/mihindi-gunawardana-110866370/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mihindigunawardana.cyber@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/mgunawardanaa?igsh=MWp5dWdwa3l6MTRqcw=="><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <!-- 
- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-4A154B?style=for-the-badge&logo=globe&logoColor=white" /></a>
--->
+  <a href="https://medium.com/@mgunawardana"><img src="https://img.shields.io/badge/-Blog-4A154B?style=for-the-badge&logo=globe&logoColor=white" /></a>
+
 </div>
 I am an aspiring cybersecurity professional currently pursuing a Higher Diploma in Network Technology and Cybersecurity, with plans to further specialize through a Bachelor's degree in Digital Forensics and Cybersecurity. Alongside my studies, I work as an Operational Specialist in the Data Operations Department at Global System Solution, Colombo, while also working as a private visiting ICT tutor.
 
@@ -94,7 +93,4 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 * **Email:** [mihindigunawardana.cyber@gmail.com](mailto:mihindigunawardana.cyber@gmail.com)
 * **LinkedIn:** [Mihindi Gunawardana](https://www.linkedin.com/in/mihindi-gunawardana-110866370/)
 * **Instagram:** [@mgunawardanaa](https://www.instagram.com/mgunawardanaa)
-<!-- 
-* **Blog:** [Medium](https://medium.com/@yourhandle) 
-* **Website:** [Website](https://medium.com/@yourhandle)
--->
+* **Blog:** [Medium](https://medium.com/@mgunawardana) 
