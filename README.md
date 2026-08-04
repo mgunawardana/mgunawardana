@@ -24,19 +24,42 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 |-----------------------------------------------|----------------------------|
 | Email Security Labs       | <a href="https://github.com/mgunawardana/Email-Security-Labs.git">Check it out!</a>|
 
-
 ## Tools
+
+### Virtualization & Lab Environment
+<div>
+    <img src="https://img.shields.io/badge/-Virtual_Machine-0078D4?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</div>
+
+### File & Email Analysis
+<div>
+    <img src="https://img.shields.io/badge/-7--Zip-000000?style=for-the-badge&logo=7zip&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
+</div>
+
+### Threat Intelligence & OSINT
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-URLhaus-CC0000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Malpedia-00875A?style=for-the-badge&logoColor=white" />
+</div>
+
+### Malware Analysis & Sandboxing
+<div>
+    <img src="https://img.shields.io/badge/-Joe_Sandbox-FF6B35?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMRay-005EB8?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Recorded_Future-6A1B9A?style=for-the-badge&logoColor=white" />
+</div>
+
+### Data Decoding & Deobfuscation
+<div>
+    <img src="https://img.shields.io/badge/-CyberChef-FF69B4?style=for-the-badge&logoColor=white" />
+</div>
 
 ### Digital Forensics & File Analysis
 <div>
     <img src="https://img.shields.io/badge/-ExifTool-3178C6?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-HxD_Hex_Editor-00599C?style=for-the-badge&logoColor=white" />
-</div>
-
-### Data & Header Analysis
-<div>
-    <img src="https://img.shields.io/badge/-CyberChef-FF69B4?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" />
 </div>
 
 ## Certifications
