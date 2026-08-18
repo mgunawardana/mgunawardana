@@ -22,6 +22,9 @@ Beyond technical work, I aspire to contribute to the cybersecurity community by 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Active Directory Detection & Incident Response Automation Pipeline       | <a href="https://github.com/mgunawardana/Active-Directory-Detection-Automation-Project">Check it out!</a>|
+| Automated Detection & Threat Enrichment Engine    | <a href="https://github.com/mgunawardana/SOC-Automation-Lab">Check it out!</a>|
+| Cloud Detection Stack & Managed Response Pipeline      | <a href="https://github.com/mgunawardana/Open-Source-Detection-Response-Automation-Lab">Check it out!</a>|
 | Email Security Labs       | <a href="https://github.com/mgunawardana/Email-Security-Labs.git">Check it out!</a>|
 
 ## Tools
